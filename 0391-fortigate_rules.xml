@@ -3,7 +3,7 @@
 -  Fortigate rules
 -  Author: Alexander Tibor Assenheimer - github: alextibor
 -  This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2.
--  Rules create based on the Fortigate Log Reference from version 7.2.7 and 7.4.3
+-  Rules create based on the Fortigate Log Reference from version 7.0.14, 7.2.7, 7.2.8 and 7.4.3
 -->
 
 <group name="fortigate,">
