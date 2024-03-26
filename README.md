@@ -20,4 +20,4 @@ This project provides a robust set of decoders and rules designed to integrate F
    systemctl restart wazuh-manager
    ```
 
-I am working hard on that to improve and expand the functionalities. Leave a star and follow this repo.
+I am working hard on that to improve and expand the functionalities. Leave a star and follow this repo for updates.
