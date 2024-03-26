@@ -1,3 +1,11 @@
+<!--
+-  Fortigate Decoders
+-  Author: Alexander Tibor Assenheimer - github: alextibor
+-  This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2.
+-  Rules create based on the Fortigate Log Reference from version 7.0.14, 7.2.7, 7.2.8 and 7.4.3
+-->
+
+
 <decoder name="fortinet-fortigate-firewall">
   <prematch type="pcre2">^date=\d{4}-\d{2}-\d{2}\s+time=\d{2}:\d{2}:\d{2}\s+devname="[^"]*"\s+devid="[^"]*"\s+eventtime=\d+\s+tz="[^"]*"\s+logid="\d+"</prematch>
 </decoder>
