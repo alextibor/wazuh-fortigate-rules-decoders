@@ -20,4 +20,4 @@ This project provides a robust set of decoders and rules designed to integrate F
    systemctl restart wazuh-manager
    ```
 
-I am working to improve and expand the functionalities of the decoders and rules based on Fortigate logs.
+I am working hard on that to improve and expand the functionalities. Leave a star and follow this repo.
