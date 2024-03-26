@@ -1,6 +1,8 @@
 # wazuh-fortigate-rules-decoders
 
-This project provides a robust set of decoders and rules designed to integrate Fortigate logs with Wazuh, developed based on the Fortigate Log Reference for versions 7.0.14, 7.2.7, 7.2.8, and 7.4.3. I am working hard on that to improve and expand the functionalities. Leave a star and follow this repo for updates.
+This project provides a robust set of decoders and rules designed to integrate Fortigate logs with Wazuh, developed based on the Fortigate Log Reference for versions 7.0.14, 7.2.7, 7.2.8, and 7.4.3. 
+
+I am working hard on that to improve and expand the functionalities. Leave a star and follow this repo for updates.
 
 ## Features
 
